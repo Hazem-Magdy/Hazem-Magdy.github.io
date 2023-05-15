@@ -9673,6 +9673,6 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-  /* .mouse{
-    margin-top: 50px;
-  } */
+  .mouse{
+    margin-top: 2rem;
+  }
